@@ -156,7 +156,7 @@ set nowrap
 # set smooth
 
 ## Enable soft line wrapping (AKA full-line display).
-# set softwrap
+set softwrap
 
 ## Use this spelling checker instead of the internal one.  This option
 ## does not properly have a default value.
@@ -166,10 +166,10 @@ set nowrap
 set suspend
 
 ## Use this tab size instead of the default; it must be greater than 0.
-# set tabsize 8
+set tabsize 4
 
 ## Convert typed tabs to spaces.
-# set tabstospaces
+set tabstospaces
 
 ## Save automatically on exit; don't prompt.
 # set tempfile
